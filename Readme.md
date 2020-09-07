@@ -1,6 +1,6 @@
 # Личный проект «Техномарт»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/29/user/1533555).
+* Студент: [Селезнев Денис](https://up.htmlacademy.ru/htmlcss/29/user/1533555).
 * Наставник: [Анна Волкова](https://htmlacademy.ru/profile/id477715).
 
 ---
